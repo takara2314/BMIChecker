@@ -1,0 +1,14 @@
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\bin\Release\BMIChecker.exe.config
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\bin\Release\BMIChecker.exe
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\bin\Release\BMIChecker.pdb
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\MainWindow.g.cs
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\App.g.cs
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\BMIChecker_MarkupCompile.cache
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\BMIChecker_MarkupCompile.lref
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\MainWindow.baml
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\BMIChecker.g.resources
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\BMIChecker.Properties.Resources.resources
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\BMIChecker.csproj.GenerateResource.cache
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\BMIChecker.csproj.CoreCompileInputs.cache
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\BMIChecker.exe
+C:\Users\TK\source\repos\BMIChecker\BMIChecker\obj\Release\BMIChecker.pdb
