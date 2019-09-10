@@ -3,4 +3,10 @@
 <b>これはWPFの練習です。</b><br>
 <br>
 Can look your BMI only if you input your height and weight.<br>
-<b>THIS IS WPF PRACTICE.</b>
+<b>THIS IS WPF PRACTICE.</b><br>
+
+![alt text](https://raw.githubusercontent.com/takara2314/BMIChecker/master/readme_image1.png)
+
+![alt text](https://raw.githubusercontent.com/takara2314/BMIChecker/master/readme_image2.png)
+
+![alt text](https://raw.githubusercontent.com/takara2314/BMIChecker/master/readme_image3.png)
